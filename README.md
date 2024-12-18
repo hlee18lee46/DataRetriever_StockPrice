@@ -1,4 +1,11 @@
 # DataRetriever_StockPrice
+
+## Features
+It scrap the stock price from yahoo financials using VBA
+
+## Technologies Used
+VBA
+
 VBA code to get the stock price from yahoo financials
 
 Below is the VBA code for the stock price retriever. 
